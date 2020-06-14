@@ -54,17 +54,17 @@ public class BStack_test2 extends BStack{
 		we.quit();
 	}
 	@Test
-	public void t1() throws InterruptedException {
-		boolean res =  p.test1();
-		test = report.startTest("google");
+	public void t1Insta() throws InterruptedException {
+		boolean res =  p.test3();
+		test = report.startTest("Instagram");
 		Thread.sleep(1000);
 		System.out.println(res);
 		Assert.assertTrue(res);
 	}
 	@Test
-	public void t2() {
-		boolean res = p.test2();
-		test = report.startTest("fb");
+	public void t2Twitter() {
+		boolean res = p.test4();
+		test = report.startTest("twitter");
 		System.out.println(res);
 		Assert.assertTrue(res);
 	}

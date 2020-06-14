@@ -9,11 +9,19 @@ public class BStack_page {
 	}
 	
 	public boolean test1() {
-	    we.get("http://www.instagram.com");
-	    return we.getTitle().equalsIgnoreCase("Instagram1");
+	    we.get("http://www.google.com");
+	    return we.getTitle().equalsIgnoreCase("Google");
 	}
 	public boolean test2() {
-	    we.get("http://www.faceook.com");
+	    we.get("http://www.facebook.com");
 	    return we.getTitle().equalsIgnoreCase("Facebook – log in or sign up");
+	}
+	public boolean test3() {
+	    we.get("http://www.instagram.com");
+	    return we.getTitle().equalsIgnoreCase("Instagram");
+	}
+	public boolean test4() {
+	    we.get("http://www.twitter.com");
+	    return we.getTitle().equalsIgnoreCase("Twitter");
 	}
 }
