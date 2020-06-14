@@ -58,14 +58,12 @@ public class BStack_test1 extends BStack{
 		boolean res =  p.test1();
 		test = report.startTest("google");
 		Thread.sleep(1000);
-		System.out.println(res);
 		Assert.assertTrue(res);
 	}
 	@Test
 	public void t2FB() {
 		boolean res = p.test2();
 		test = report.startTest("fb");
-		System.out.println(res);
 		Assert.assertTrue(res);
 	}
 }

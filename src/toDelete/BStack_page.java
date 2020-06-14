@@ -18,11 +18,11 @@ public class BStack_page {
 	}
 	public boolean test3() {
 	    we.get("http://www.instagram.com");
-	    System.out.println("Title : "+we.getTitle().equalsIgnoreCase("Instagram"));
 	    return we.getTitle().equalsIgnoreCase("Instagram");
 	}
 	public boolean test4() {
 	    we.get("http://www.twitter.com");
-	    return we.getTitle().equalsIgnoreCase("Twitter");
+	    System.out.println("Title : "+we.getTitle());
+	    return we.getTitle().equalsIgnoreCase("Home / Twitter");
 	}
 }
