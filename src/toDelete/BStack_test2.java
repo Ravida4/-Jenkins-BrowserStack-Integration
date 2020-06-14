@@ -61,9 +61,9 @@ public class BStack_test2 extends BStack{
 		Assert.assertTrue(res);
 	}
 	@Test
-	public void t2Twitter() {
+	public void t2Whatsapp() {
 		boolean res = p.test4();
-		test = report.startTest("twitter");
+		test = report.startTest("Whatsapp");
 		Assert.assertTrue(res);
 	}
 }

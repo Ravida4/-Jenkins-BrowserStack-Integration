@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="45934" started-at="2020-06-14T19:10:23 IST" finished-at="2020-06-14T19:11:09 IST">
+  <suite name="Suite" duration-ms="58667" started-at="2020-06-14T19:53:22 IST" finished-at="2020-06-14T19:54:21 IST">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="45934" started-at="2020-06-14T19:10:23 IST" finished-at="2020-06-14T19:11:09 IST">
+    <test name="Test1" duration-ms="58667" started-at="2020-06-14T19:53:22 IST" finished-at="2020-06-14T19:54:21 IST">
       <class name="toDelete.BStack_test2">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="8305" started-at="2020-06-14T19:10:45 IST" finished-at="2020-06-14T19:10:54 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="15395" started-at="2020-06-14T19:53:55 IST" finished-at="2020-06-14T19:54:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="3015" started-at="2020-06-14T19:10:54 IST" finished-at="2020-06-14T19:10:57 IST">
+        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="3931" started-at="2020-06-14T19:54:10 IST" finished-at="2020-06-14T19:54:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Insta -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="64" started-at="2020-06-14T19:10:57 IST" finished-at="2020-06-14T19:10:57 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="40" started-at="2020-06-14T19:54:14 IST" finished-at="2020-06-14T19:54:14 IST">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="FAIL" signature="t2Twitter()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Twitter" duration-ms="4933" started-at="2020-06-14T19:10:57 IST" finished-at="2020-06-14T19:11:02 IST">
+        <test-method status="FAIL" signature="t2Twitter()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Twitter" duration-ms="3795" started-at="2020-06-14T19:54:14 IST" finished-at="2020-06-14T19:54:18 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[did not expect to find [true] but found [false]]]>
@@ -76,7 +76,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2Twitter -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="5341" started-at="2020-06-14T19:11:02 IST" finished-at="2020-06-14T19:11:07 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="837" started-at="2020-06-14T19:54:18 IST" finished-at="2020-06-14T19:54:19 IST">
           <params>
             <param index="0">
               <value>
@@ -87,21 +87,21 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2212" started-at="2020-06-14T19:11:07 IST" finished-at="2020-06-14T19:11:09 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2265" started-at="2020-06-14T19:54:19 IST" finished-at="2020-06-14T19:54:21 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
       </class> <!-- toDelete.BStack_test2 -->
       <class name="toDelete.BStack_test1">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="11026" started-at="2020-06-14T19:10:23 IST" finished-at="2020-06-14T19:10:34 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="16815" started-at="2020-06-14T19:53:22 IST" finished-at="2020-06-14T19:53:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="PASS" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3921" started-at="2020-06-14T19:10:34 IST" finished-at="2020-06-14T19:10:38 IST">
+        <test-method status="PASS" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3750" started-at="2020-06-14T19:53:39 IST" finished-at="2020-06-14T19:53:43 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Google -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="218" started-at="2020-06-14T19:10:38 IST" finished-at="2020-06-14T19:10:39 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="459" started-at="2020-06-14T19:53:43 IST" finished-at="2020-06-14T19:53:44 IST">
           <params>
             <param index="0">
               <value>
@@ -112,11 +112,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="4986" started-at="2020-06-14T19:10:39 IST" finished-at="2020-06-14T19:10:44 IST">
+        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="9684" started-at="2020-06-14T19:53:44 IST" finished-at="2020-06-14T19:53:53 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2FB -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="133" started-at="2020-06-14T19:10:44 IST" finished-at="2020-06-14T19:10:44 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="46" started-at="2020-06-14T19:53:53 IST" finished-at="2020-06-14T19:53:53 IST">
           <params>
             <param index="0">
               <value>
@@ -127,7 +127,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="1723" started-at="2020-06-14T19:10:44 IST" finished-at="2020-06-14T19:10:45 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="1607" started-at="2020-06-14T19:53:53 IST" finished-at="2020-06-14T19:53:55 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
