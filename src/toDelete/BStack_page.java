@@ -9,8 +9,8 @@ public class BStack_page {
 	}
 	
 	public boolean test1() {
-	    we.get("http://www.google.com");
-	    return we.getTitle().equalsIgnoreCase("Google");
+	    we.get("http://www.instagram.com");
+	    return we.getTitle().equalsIgnoreCase("Instagram1");
 	}
 	public boolean test2() {
 	    we.get("http://www.faceook.com");
