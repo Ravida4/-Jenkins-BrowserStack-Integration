@@ -23,6 +23,6 @@ public class BStack_page {
 	public boolean test4() {
 	    we.get("http://www.twitter.com");
 	    System.out.println("Title : "+we.getTitle());
-	    return we.getTitle().equalsIgnoreCase("Home / Twitter");
+	    return we.getTitle().equalsIgnoreCase("Explore / Twitter");
 	}
 }
