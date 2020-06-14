@@ -1,12 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 62.844 s <<< FAILURE! - in TestSuite
-toDelete.BStack_test1.t1  Time elapsed: 4.466 s  <<< FAILURE!
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 65.162 s <<< FAILURE! - in TestSuite
+toDelete.BStack_test2.t2Twitter  Time elapsed: 4.2 s  <<< FAILURE!
 java.lang.AssertionError: did not expect to find [true] but found [false]
-	at toDelete.BStack_test1.t1(BStack_test1.java:62)
-
-toDelete.BStack_test2.t1  Time elapsed: 3.997 s  <<< FAILURE!
-java.lang.AssertionError: did not expect to find [true] but found [false]
-	at toDelete.BStack_test2.t1(BStack_test2.java:62)
+	at toDelete.BStack_test2.t2Twitter(BStack_test2.java:69)
 

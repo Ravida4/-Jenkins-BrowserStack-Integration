@@ -5,20 +5,12 @@
     <classes>
       <class name="toDelete.BStack_test2">
         <methods>
+          <include name="t2Twitter"/>
           <include name="bf"/>
           <include name="af"/>
           <include name="getResult"/>
-          <include name="t1"/>
         </methods>
       </class> <!-- toDelete.BStack_test2 -->
-      <class name="toDelete.BStack_test1">
-        <methods>
-          <include name="af"/>
-          <include name="bf"/>
-          <include name="getResult"/>
-          <include name="t1"/>
-        </methods>
-      </class> <!-- toDelete.BStack_test1 -->
     </classes>
   </test> <!-- Test1(failed) -->
 </suite> <!-- Failed suite [Suite] -->
