@@ -13,11 +13,12 @@
 
 
 <suite name="Suite">
-	<test name="Test1">		
+	<test name="Test1">
 		<classes>
 			<!-- <class name="test.adminUserFlows_test" /> -->
-			<class name="toDelete.BStack_test" />
-			
+			<class name="toDelete.BStack_test1" />
+			<class name="toDelete.BStack_test2" />
+
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

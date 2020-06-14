@@ -14,7 +14,7 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
-public class BStack_test extends BStack{
+public class BStack_test1 extends BStack{
 
 	public WebDriver we;
 	public BStack_page p;
