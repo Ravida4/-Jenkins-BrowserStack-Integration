@@ -48,7 +48,7 @@ public class BStack {
 		ExtentReports extent;
 		System.out.println(time_stamp);
 		
-		String Path = System.getProperty("user.dir")+"//reports//report"+time_stamp+".html";
+		String Path = System.getProperty("user.dir")+"//src//reports//report"+time_stamp+".html";
 		extent = new ExtentReports(Path, false);
 		extent
 		.addSystemInfo("Selenium Version", "3.141.59")
@@ -61,7 +61,7 @@ public class BStack {
 
 	public static String takeScreenshot(WebDriver driver, String fileName) throws IOException {
 		fileName = fileName+".png";
-		String directory = System.getProperty("user.dir")+"//screenshots//";
+		String directory = System.getProperty("user.dir")+"//src//screenshots//";
 		File sourceFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(sourceFile, new File(directory + fileName));
 		String destination = directory+fileName;
