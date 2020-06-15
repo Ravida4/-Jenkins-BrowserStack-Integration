@@ -58,7 +58,7 @@ public class BStack_test1 extends BStack{
 		boolean res =  p.test1();
 		test = report.startTest("google");
 		Thread.sleep(1000);
-		Assert.assertTrue(res);
+		Assert.assertTrue(false);
 	}
 	@Test
 	public void t2FB() {
