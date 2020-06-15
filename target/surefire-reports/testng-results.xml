@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="65305" started-at="2020-06-15T13:17:26 IST" finished-at="2020-06-15T13:18:31 IST">
+  <suite name="Suite" duration-ms="64586" started-at="2020-06-15T13:26:19 IST" finished-at="2020-06-15T13:27:24 IST">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="65305" started-at="2020-06-15T13:17:26 IST" finished-at="2020-06-15T13:18:31 IST">
+    <test name="Test1" duration-ms="64586" started-at="2020-06-15T13:26:19 IST" finished-at="2020-06-15T13:27:24 IST">
       <class name="toDelete.BStack_test2">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="27356" started-at="2020-06-15T13:17:54 IST" finished-at="2020-06-15T13:18:22 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="7639" started-at="2020-06-15T13:26:49 IST" finished-at="2020-06-15T13:26:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="3909" started-at="2020-06-15T13:18:22 IST" finished-at="2020-06-15T13:18:25 IST">
+        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="19724" started-at="2020-06-15T13:26:57 IST" finished-at="2020-06-15T13:27:16 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Insta -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="86" started-at="2020-06-15T13:18:25 IST" finished-at="2020-06-15T13:18:26 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="167" started-at="2020-06-15T13:27:16 IST" finished-at="2020-06-15T13:27:17 IST">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Whatsapp" duration-ms="3360" started-at="2020-06-15T13:18:26 IST" finished-at="2020-06-15T13:18:29 IST">
+        <test-method status="PASS" signature="t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Whatsapp" duration-ms="5089" started-at="2020-06-15T13:27:17 IST" finished-at="2020-06-15T13:27:22 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2Whatsapp -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="28" started-at="2020-06-15T13:18:29 IST" finished-at="2020-06-15T13:18:29 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="44" started-at="2020-06-15T13:27:22 IST" finished-at="2020-06-15T13:27:22 IST">
           <params>
             <param index="0">
               <value>
@@ -41,21 +41,21 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2091" started-at="2020-06-15T13:18:29 IST" finished-at="2020-06-15T13:18:31 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2181" started-at="2020-06-15T13:27:22 IST" finished-at="2020-06-15T13:27:24 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
       </class> <!-- toDelete.BStack_test2 -->
       <class name="toDelete.BStack_test1">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="9284" started-at="2020-06-15T13:17:26 IST" finished-at="2020-06-15T13:17:35 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="14201" started-at="2020-06-15T13:26:19 IST" finished-at="2020-06-15T13:26:33 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="PASS" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3924" started-at="2020-06-15T13:17:35 IST" finished-at="2020-06-15T13:17:39 IST">
+        <test-method status="PASS" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3085" started-at="2020-06-15T13:26:33 IST" finished-at="2020-06-15T13:26:37 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Google -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="273" started-at="2020-06-15T13:17:39 IST" finished-at="2020-06-15T13:17:39 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="456" started-at="2020-06-15T13:26:37 IST" finished-at="2020-06-15T13:26:37 IST">
           <params>
             <param index="0">
               <value>
@@ -66,11 +66,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="12967" started-at="2020-06-15T13:17:39 IST" finished-at="2020-06-15T13:17:52 IST">
+        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="10317" started-at="2020-06-15T13:26:37 IST" finished-at="2020-06-15T13:26:47 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2FB -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="41" started-at="2020-06-15T13:17:52 IST" finished-at="2020-06-15T13:17:52 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="47" started-at="2020-06-15T13:26:47 IST" finished-at="2020-06-15T13:26:47 IST">
           <params>
             <param index="0">
               <value>
@@ -81,7 +81,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="1937" started-at="2020-06-15T13:17:52 IST" finished-at="2020-06-15T13:17:54 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="1601" started-at="2020-06-15T13:26:47 IST" finished-at="2020-06-15T13:26:49 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
