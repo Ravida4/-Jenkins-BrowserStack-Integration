@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45565" started-at="2020-06-14T20:09:21 IST" finished-at="2020-06-14T20:10:07 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="45565" started-at="2020-06-14T20:09:21 IST" finished-at="2020-06-14T20:10:07 IST">
+      <class name="toDelete.BStack_test2">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="13329" started-at="2020-06-14T20:09:43 IST" finished-at="2020-06-14T20:09:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="4108" started-at="2020-06-14T20:09:57 IST" finished-at="2020-06-14T20:10:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1Insta -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="39" started-at="2020-06-14T20:10:01 IST" finished-at="2020-06-14T20:10:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=t1Insta status=SUCCESS method=BStack_test2.t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Whatsapp" duration-ms="3168" started-at="2020-06-14T20:10:01 IST" finished-at="2020-06-14T20:10:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2Whatsapp -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="26" started-at="2020-06-14T20:10:04 IST" finished-at="2020-06-14T20:10:04 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=t2Whatsapp status=SUCCESS method=BStack_test2.t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2444" started-at="2020-06-14T20:10:04 IST" finished-at="2020-06-14T20:10:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- toDelete.BStack_test2 -->
+      <class name="toDelete.BStack_test1">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="9104" started-at="2020-06-14T20:09:21 IST" finished-at="2020-06-14T20:09:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3351" started-at="2020-06-14T20:09:30 IST" finished-at="2020-06-14T20:09:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1Google -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="329" started-at="2020-06-14T20:09:33 IST" finished-at="2020-06-14T20:09:34 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=t1Google status=SUCCESS method=BStack_test1.t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="7538" started-at="2020-06-14T20:09:34 IST" finished-at="2020-06-14T20:09:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2FB -->
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="32" started-at="2020-06-14T20:09:41 IST" finished-at="2020-06-14T20:09:41 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=t2FB status=SUCCESS method=BStack_test1.t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="2061" started-at="2020-06-14T20:09:41 IST" finished-at="2020-06-14T20:09:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- af -->
+      </class> <!-- toDelete.BStack_test1 -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
