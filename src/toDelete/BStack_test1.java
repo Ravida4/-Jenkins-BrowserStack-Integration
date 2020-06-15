@@ -34,6 +34,7 @@ public class BStack_test1 extends BStack{
 	public void getResult(ITestResult testResult) throws IOException {
 		if(testResult.getStatus()==ITestResult.FAILURE) {
 			String path = takeScreenshot(this.we, testResult.getName());
+			System.out.println(path);
 			String imagePath = test.addScreenCapture(path);
 			test.log(LogStatus.FAIL, testResult.getName(),imagePath);
 			System.out.println( testResult.getName()+" : Failed");
