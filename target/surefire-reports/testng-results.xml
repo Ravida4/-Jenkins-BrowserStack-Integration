@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="1" ignored="0" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="61206" started-at="2020-06-15T13:02:24 IST" finished-at="2020-06-15T13:03:25 IST">
+  <suite name="Suite" duration-ms="65843" started-at="2020-06-15T13:08:12 IST" finished-at="2020-06-15T13:09:18 IST">
     <groups>
     </groups>
-    <test name="Test1" duration-ms="61206" started-at="2020-06-15T13:02:24 IST" finished-at="2020-06-15T13:03:25 IST">
+    <test name="Test1" duration-ms="65843" started-at="2020-06-15T13:08:12 IST" finished-at="2020-06-15T13:09:18 IST">
       <class name="toDelete.BStack_test2">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="9420" started-at="2020-06-15T13:03:07 IST" finished-at="2020-06-15T13:03:16 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="bf" is-config="true" duration-ms="25375" started-at="2020-06-15T13:08:41 IST" finished-at="2020-06-15T13:09:06 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="3369" started-at="2020-06-15T13:03:16 IST" finished-at="2020-06-15T13:03:20 IST">
+        <test-method status="PASS" signature="t1Insta()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t1Insta" duration-ms="4503" started-at="2020-06-15T13:09:06 IST" finished-at="2020-06-15T13:09:10 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Insta -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="80" started-at="2020-06-15T13:03:20 IST" finished-at="2020-06-15T13:03:20 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="71" started-at="2020-06-15T13:09:10 IST" finished-at="2020-06-15T13:09:11 IST">
           <params>
             <param index="0">
               <value>
@@ -26,11 +26,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Whatsapp" duration-ms="3557" started-at="2020-06-15T13:03:20 IST" finished-at="2020-06-15T13:03:23 IST">
+        <test-method status="PASS" signature="t2Whatsapp()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="t2Whatsapp" duration-ms="4841" started-at="2020-06-15T13:09:11 IST" finished-at="2020-06-15T13:09:15 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2Whatsapp -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="53" started-at="2020-06-15T13:03:23 IST" finished-at="2020-06-15T13:03:23 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="getResult" is-config="true" duration-ms="63" started-at="2020-06-15T13:09:15 IST" finished-at="2020-06-15T13:09:15 IST">
           <params>
             <param index="0">
               <value>
@@ -41,17 +41,17 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2076" started-at="2020-06-15T13:03:23 IST" finished-at="2020-06-15T13:03:25 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test2@25bbe1b6]" name="af" is-config="true" duration-ms="2326" started-at="2020-06-15T13:09:15 IST" finished-at="2020-06-15T13:09:18 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
       </class> <!-- toDelete.BStack_test2 -->
       <class name="toDelete.BStack_test1">
-        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="24564" started-at="2020-06-15T13:02:24 IST" finished-at="2020-06-15T13:02:49 IST">
+        <test-method status="PASS" signature="bf()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="bf" is-config="true" duration-ms="11400" started-at="2020-06-15T13:08:12 IST" finished-at="2020-06-15T13:08:23 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bf -->
-        <test-method status="FAIL" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="4201" started-at="2020-06-15T13:02:49 IST" finished-at="2020-06-15T13:02:53 IST">
+        <test-method status="FAIL" signature="t1Google()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t1Google" duration-ms="3113" started-at="2020-06-15T13:08:23 IST" finished-at="2020-06-15T13:08:26 IST">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[did not expect to find [true] but found [false]]]>
@@ -62,7 +62,7 @@ at org.testng.Assert.fail(Assert.java:97)
 at org.testng.Assert.failNotEquals(Assert.java:969)
 at org.testng.Assert.assertTrue(Assert.java:43)
 at org.testng.Assert.assertTrue(Assert.java:53)
-at toDelete.BStack_test1.t1Google(BStack_test1.java:61)
+at toDelete.BStack_test1.t1Google(BStack_test1.java:62)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -101,7 +101,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t1Google -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="1378" started-at="2020-06-15T13:02:53 IST" finished-at="2020-06-15T13:02:54 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="1274" started-at="2020-06-15T13:08:27 IST" finished-at="2020-06-15T13:08:28 IST">
           <params>
             <param index="0">
               <value>
@@ -112,11 +112,11 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="10145" started-at="2020-06-15T13:02:54 IST" finished-at="2020-06-15T13:03:05 IST">
+        <test-method status="PASS" signature="t2FB()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="t2FB" duration-ms="10806" started-at="2020-06-15T13:08:28 IST" finished-at="2020-06-15T13:08:39 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- t2FB -->
-        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="43" started-at="2020-06-15T13:03:05 IST" finished-at="2020-06-15T13:03:05 IST">
+        <test-method status="PASS" signature="getResult(org.testng.ITestResult)[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="getResult" is-config="true" duration-ms="56" started-at="2020-06-15T13:08:39 IST" finished-at="2020-06-15T13:08:39 IST">
           <params>
             <param index="0">
               <value>
@@ -127,7 +127,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:451)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getResult -->
-        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="2272" started-at="2020-06-15T13:03:05 IST" finished-at="2020-06-15T13:03:07 IST">
+        <test-method status="PASS" signature="af()[pri:0, instance:toDelete.BStack_test1@ff5b51f]" name="af" is-config="true" duration-ms="1965" started-at="2020-06-15T13:08:39 IST" finished-at="2020-06-15T13:08:41 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- af -->
