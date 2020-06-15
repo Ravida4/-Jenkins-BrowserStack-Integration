@@ -76,7 +76,7 @@ public class BStack {
 		caps.setCapability("os_version", "10");
 		caps.setCapability("resolution", "1280x1024");
 		caps.setCapability("name", "TVP-Test");
-
+		
 		WebDriver driver = new RemoteWebDriver(new URL(URL), caps);
 		driver.manage().window().maximize();
 		return driver;
