@@ -63,6 +63,7 @@ public class BStack_test1 extends BStack{
 		boolean res =  p.test1();
 		test = report.startTest("google");
 		Assert.assertTrue(res);
+		
 	}
 	@Test
 	public void t2FB() {
