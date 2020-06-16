@@ -61,7 +61,7 @@ public class BStack {
 
 	public static String takeScreenshot(WebDriver driver, String fileName) throws IOException {
 		fileName = fileName+".png";
-		String directory = System.getProperty("user.dir")+"\\src\\screenshots\\";
+		String directory = System.getProperty("user.dir")+"/src/screenshots/";
 		File sourceFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 		FileUtils.copyFile(sourceFile, new File(directory + fileName));
 		String destination = directory+fileName;
