@@ -64,6 +64,6 @@ public class BStack_test1 extends BStack{
 	public void t2FB() {
 		boolean res = p.test2();
 		test = report.startTest("fb");
-		Assert.assertTrue(false);
+		Assert.assertTrue(res);
 	}
 }

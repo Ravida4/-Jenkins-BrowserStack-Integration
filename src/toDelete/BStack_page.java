@@ -1,5 +1,6 @@
 package toDelete;
 
+import java.io.File;
 import java.nio.file.Paths;
 
 import org.openqa.selenium.WebDriver;
@@ -15,7 +16,7 @@ public class BStack_page {
 
 	public boolean test1() {
 		we.get("http://www.google.com");
-
+		System.out.println(new File(System.getProperty("user.dir")+"/src/uploadFiles/").listFiles().length);
 		return we.getTitle().equalsIgnoreCase("Google");
 	}
 	public boolean test2() {
